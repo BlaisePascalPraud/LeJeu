@@ -1,4 +1,4 @@
-#Quelques principes du Jeu
+# Quelques principes du Jeu
 
 Le Jeu est un jeu artistique basé sur la relation, l'échange, la connexion et l'interactivité entre les joueurs.
 
